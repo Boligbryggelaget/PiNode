@@ -1,0 +1,10 @@
+{
+  "name": "Bbl.BrewServices",
+  "version": "0.0.1",
+  "description": "Bbl.BrewServices",
+  "main": "server.js",
+  "author": {
+    "name": "Boligbryggelaget",
+    "email": "post@boligbryggelag.no"
+  }
+}
